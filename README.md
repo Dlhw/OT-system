@@ -47,3 +47,6 @@ Purpose of this project is to provide a training facility to educate red team on
    - OPCUA Communications does not use SSL to encrypt traffic
 
    - Perform a MiTM attack using wireshark and obtain the relevant information to attack the water plant (e.g. DoS, manipulating the server)
+
+### Architecture Diagram
+[Canva](https://www.canva.com/design/DAGf0Eq3U0I/mb3vIvCJlaiGsM9KA8NJiQ/view?utm_content=DAGf0Eq3U0I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7d39315482)
